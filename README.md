@@ -51,7 +51,7 @@ Network Intelligence Suite (NIS) is a comprehensive network security toolkit tha
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone https://github.com/abhieexploits/NIS.git
+git clone https://github.com/abhiexploits/NIS.git
 cd NIS
 chmod +x setup.sh
 ./setup.sh
@@ -63,7 +63,7 @@ python nis.py
 ```bash
 sudo apt update
 sudo apt install python3 python3-pip git -y
-git clone https://github.com/abhieexploits/NIS.git
+git clone https://github.com/abhiexploits/NIS.git
 cd NIS
 chmod +x setup.sh
 ./setup.sh
